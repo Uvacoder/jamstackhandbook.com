@@ -17,6 +17,9 @@
     "react-icons": "^3.11.0",
     "sass": "^1.26.10"
   },
+  "engines": {
+    "node": "16.18.1"
+  },
   "keywords": [
     "jamstack",
     "static"
